@@ -20,6 +20,17 @@ npm run dev
 ## Support
 You can use the documentation of [React](https://legacy.reactjs.org/docs/getting-started.html). You can use youtube source [Rech With Tim](https://www.youtube.com/watch?v=G6D9cBaLViA&t=4839s). Check it out.
 
+## Deploy in Vercel
+The react project can be easily deployed using [Vercel](https://vercel.com/home).
+Please check the [document related to Vercel](https://vercel.com/docs) for further details
+
+If you prefer using the terminal then
+```bash
+npm install -g vercel
+```
+```bash
+vercel login
+```
 
 # React + Vite
 
